@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Site
 
 # Name pronunciation (optional)
 
